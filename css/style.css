@@ -3888,7 +3888,7 @@ a.text-gray-dark:focus, a.text-gray-dark:hover {
       height: 50px;
       position: relative;
       left: 18px;
-      top: 50%; }
+      margin-top: 9%; }
     .messages-box .timeline .content-image img {
       width: 36px;
       height: 36px; }
